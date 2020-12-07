@@ -4,8 +4,8 @@
 
 输入service
 
-![image-20201207111001190](/Users/linzhe/Library/Application Support/typora-user-images/image-20201207111001190.png)
+![image-20201207111001190](https://tva1.sinaimg.cn/large/0081Kckwly1glf4d7ohqrj31580u0nhm.jpg)
 
 老版本输入DashBoard
 
-![image-20201207111139434](/Users/linzhe/Library/Application Support/typora-user-images/image-20201207111139434.png)
+![image-20201207111139434](https://tva1.sinaimg.cn/large/0081Kckwly1glf4dckk7kj30ub0u0ncp.jpg)
